@@ -25,7 +25,7 @@ const LeagueDetailCard = () => {
           sx={{
             display: "flex",
             flexDirection: "column",
-            mt: 5,
+            mt: 10,
           }}
         >
           <Box
@@ -50,7 +50,7 @@ const LeagueDetailCard = () => {
                 </Typography>
               </CardContent>
               <CardActions>
-                <Button size="small">Learn More</Button>
+                <Button size="small">Lihat</Button>
               </CardActions>
             </Card>
           </Box>

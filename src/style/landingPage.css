@@ -1,0 +1,41 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/bg/main.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px white;
+  letter-spacing: 4px;
+}
+
+.listItem {
+  height: 100vh;
+  background: url("../assets/bg/main.jpg");
+  background-size: cover;
+}
+
+.listWrapper {
+}
+
+.listImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.image-top {
+  width: 100%;
+  height: 25vw;
+  object-fit: contain;
+}
